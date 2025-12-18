@@ -1,20 +1,65 @@
 {
-      "PlantA": {
-        "name": "Ficus Benjamina (Desk)",
-        "min": 40,
-        "max": 70,
-        "description": "Requires consistent moisture; avoid dry periods."
-      },
-      "PlantB": {
-        "name": "Desert Cactus (Window)",
-        "min": 10,
-        "max": 30,
-        "description": "Needs soil to dry out completely between waterings."
-      },
-      "PlantC": {
-        "name": "Tropical Fern (Bathroom)",
-        "min": 65,
-        "max": 85,
-        "description": "Loves high humidity and moist soil."
-      }
-    }
+  "Potted Basil": {
+    "common_name": "Basil",
+    "light_requirement": "High",
+    "moisture_target_percent": 65,
+    "temperature_range_c": "18-30",
+    "notes": "Keep soil consistently moist. Requires 6+ hours of direct sun."
+  },
+  "Fiddle Leaf Fig": {
+    "common_name": "Fiddle Leaf Fig",
+    "light_requirement": "Medium-High",
+    "moisture_target_percent": 45,
+    "temperature_range_c": "15-25",
+    "notes": "Allow the top inch of soil to dry out between waterings. Avoid drafts."
+  },
+  "Orchid": {
+    "common_name": "Phalaenopsis Orchid",
+    "light_requirement": "Medium",
+    "moisture_target_percent": 30,
+    "temperature_range_c": "18-28",
+    "notes": "Prefers bark or moss medium. Needs high humidity but good drainage."
+  },
+  "Aloe Vera": {
+    "common_name": "Aloe Vera",
+    "light_requirement": "High",
+    "moisture_target_percent": 20,
+    "temperature_range_c": "13-27",
+    "notes": "Drought tolerant. Allow soil to dry completely before watering deeply."
+  },
+  "Spider Plant": {
+    "common_name": "Spider Plant",
+    "light_requirement": "Medium-Low",
+    "moisture_target_percent": 55,
+    "temperature_range_c": "10-25",
+    "notes": "Easy to care for. Water when the top soil begins to feel dry."
+  },
+  "Snake Plant": {
+    "common_name": "Snake Plant (Sansevieria)",
+    "light_requirement": "Low-Medium",
+    "moisture_target_percent": 25,
+    "temperature_range_c": "18-35",
+    "notes": "Very tolerant of neglect. Overwatering is the biggest risk."
+  },
+  "Peace Lily": {
+    "common_name": "Peace Lily",
+    "light_requirement": "Low-Medium",
+    "moisture_target_percent": 70,
+    "temperature_range_c": "18-29",
+    "notes": "Loves humidity. Leaves droop dramatically when thirsty, signaling it needs immediate water."
+  },
+  "Echeveria": {
+    "common_name": "Echeveria (Succulent)",
+    "light_requirement": "High",
+    "moisture_target_percent": 10,
+    "temperature_range_c": "18-24",
+    "notes": "Needs extremely well-draining soil. Only water when soil is bone dry."
+  },
+  "Boston Fern": {
+    "common_name": "Boston Fern",
+    "light_requirement": "Medium-Low",
+    "moisture_target_percent": 80,
+    "temperature_range_c": "15-24",
+    "notes": "Requires consistently moist soil and high ambient humidity to thrive."
+  }
+}
